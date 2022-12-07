@@ -1,9 +1,6 @@
-import React from "react";   
-import Stack from './navegacao/Stack'
+import React from 'react';
+import Stack from './navegacao/Stack';
 
 export default () => {
-
-    return (
-           <Stack></Stack> 
-    )
-}
+    return <Stack></Stack>;
+};
